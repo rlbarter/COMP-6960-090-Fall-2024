@@ -1,5 +1,5 @@
 ---
-title: "COMP 6960 - 090 Programming for BioMedical Data"
+title: "COMP 6960 - 090 Programming for BioMedical Data Science"
 subtitle: "University of Utah"
 ---
 

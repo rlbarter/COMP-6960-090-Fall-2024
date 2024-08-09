@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Programming for BioMedical Data Fall 2024"
+  title: "Programming for BioMedical Data Science Fall 2024"
   navbar:
     left:
       - href: index.qmd

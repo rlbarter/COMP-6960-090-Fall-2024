@@ -39,9 +39,11 @@ If you finish a course early, you are welcome to start the next course (you do n
 
 ## 1. **Introduction to R for Data Analysis** 
 
-**Length**: 5.5 hours of pre-recorded letures, 3 projects
+**Registration**: [Click here to register for this course on Headlamp](https://utah.catalog.instructure.com/browse/ds-learn/courses/introduction-to-r-for-data-analysis). Use code "**RGRANT24**" to waive registration fee. This code is valid only for students registered in this course.
 
-**Due date**: September 12
+**Length**: 5.5 hours of pre-recorded lectures, 3 projects
+
+**Due date**: September 18
 
 **Description**: This course introduces the R programming language and is designed for beginners who are new to R and coding. Specific topics covered include using RStudio and writing documents with quarto along with basic coding principles, defining variables, vectors, and data frames, pipes, data manipulation with dplyr, and data visualization with ggplot2. 
 
@@ -59,7 +61,7 @@ If you finish a course early, you are welcome to start the next course (you do n
 
 ## 2. **Advanced R for Data Analysis** 
 
-**Length**: 4 hours of pre-recorded letures, 4 projects
+**Length**: 4 hours of pre-recorded lectures, 4 projects
 
 **Due date**: October 9
 

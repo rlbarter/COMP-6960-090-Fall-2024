@@ -39,7 +39,7 @@ If you finish a course early, you are welcome to start the next course (you do n
 
 ## 1. **Introduction to R for Data Analysis** 
 
-**Registration**: [Click here to register for this course on Headlamp](https://utah.catalog.instructure.com/browse/ds-learn/courses/introduction-to-r-for-data-analysis). Use code "**RGRANT24**" to waive registration fee. This code is valid only for students registered in this course.
+**Registration**: [Click here to register for this course on Headlamp](https://www.getheadlamp.com/catalog/preview/programs/394f2c31-47b4-44dd-ab56-b800c56e3541?src=NVeXTiCf). Use code "**RGRANT24**" to waive registration fee. This code is valid only for students registered in this course.
 
 **Length**: 5.5 hours of pre-recorded lectures, 3 projects
 
